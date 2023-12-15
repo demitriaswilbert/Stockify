@@ -1,0 +1,15 @@
+D:\Data\crmLogins\crmLogins\bin\Debug\crmLogins.exe.config
+D:\Data\crmLogins\crmLogins\bin\Debug\crmLogins.exe
+D:\Data\crmLogins\crmLogins\bin\Debug\crmLogins.pdb
+D:\Data\crmLogins\crmLogins\obj\Debug\crmLogins.csprojResolveAssemblyReference.cache
+D:\Data\crmLogins\crmLogins\obj\Debug\crmLogins.Form1.resources
+D:\Data\crmLogins\crmLogins\obj\Debug\crmLogins.Properties.Resources.resources
+D:\Data\crmLogins\crmLogins\obj\Debug\crmLogins.csproj.GenerateResource.Cache
+D:\Data\crmLogins\crmLogins\obj\Debug\crmLogins.exe
+D:\Data\crmLogins\crmLogins\obj\Debug\crmLogins.pdb
+D:\Data\crmLogins\crmLogins\obj\Debug\crmLogins.Form3.resources
+D:\Data\crmLogins\crmLogins\obj\Debug\crmLogins.Form2.resources
+D:\Data\crmLogins\crmLogins\obj\Debug\crmLogins.Form4.resources
+D:\Data\crmLogins\crmLogins\obj\Debug\crmLogins.Form5.resources
+D:\Data\crmLogins\crmLogins\obj\Debug\crmLogins.Form7.resources
+D:\Data\crmLogins\crmLogins\obj\Debug\crmLogins.Form8.resources
